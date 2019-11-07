@@ -1,0 +1,3 @@
+//*[@id="ctl00_ContentPlaceholder1_RadTreeView1"]/ul/li/ul/li[3]/ul/li[1]/div/div/span
+
+C:\Users\a07208trng_b4b.04.25\eclipse-workspace\SeleniumHDFC
